@@ -15,7 +15,7 @@ putchar(a);
 a++;
 }
 a = '1';
-for (i = 0; i < 6; i++)  
+for (i = 0; i < 6; i++)
 {
 putchar('0' + a);
 a++;
