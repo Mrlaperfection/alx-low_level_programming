@@ -6,6 +6,8 @@
  *
  * Description: 'the program's description
  *
+ * @n: integer to return
+ *
  * Return: Always 0 (Success)
  */
 void print_to_98(int n)
