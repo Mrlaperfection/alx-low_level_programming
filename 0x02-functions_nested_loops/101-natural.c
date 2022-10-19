@@ -1,6 +1,8 @@
 #include <stdio.h>
  /**
- * main - main function
+ * main - main
+ *
+ * Description: 'the program's description'
  *
  * Return: always 0
  */
