@@ -19,7 +19,8 @@ if (j == 0)
 {
 _putchar('0');
 }
-else if (prod <= 9){
+else if (prod <= 9)
+{
 _putchar(',');
 _putchar(' ');
 _putchar(' ');
@@ -43,7 +44,6 @@ _putchar('0' + (prod / 10));
 _putchar('0' + (prod % 10));
 }
 }
-_putchar('\n');
 }
 }
 }
